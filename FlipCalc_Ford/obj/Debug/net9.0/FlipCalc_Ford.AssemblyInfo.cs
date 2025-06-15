@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlipCalc_Ford")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01726ba8aa00fde035dbfec547af4026988ed8b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlipCalc_Ford")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlipCalc_Ford")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
