@@ -1,0 +1,16 @@
+C:\vscode\FlipCalculator_Ford\FlipCalc_Ford\obj\Debug\net9.0\FlipCalc_Ford.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscode\FlipCalculator_Ford\FlipCalc_Ford\obj\Debug\net9.0\FlipCalc_Ford.AssemblyInfoInputs.cache
+C:\vscode\FlipCalculator_Ford\FlipCalc_Ford\obj\Debug\net9.0\FlipCalc_Ford.AssemblyInfo.cs
+C:\vscode\FlipCalculator_Ford\FlipCalc_Ford\obj\Debug\net9.0\FlipCalc_Ford.csproj.CoreCompileInputs.cache
+C:\vscode\FlipCalculator_Ford\FlipCalc_Ford\bin\Debug\net9.0\FlipCalc_Ford.exe
+C:\vscode\FlipCalculator_Ford\FlipCalc_Ford\bin\Debug\net9.0\FlipCalc_Ford.deps.json
+C:\vscode\FlipCalculator_Ford\FlipCalc_Ford\bin\Debug\net9.0\FlipCalc_Ford.runtimeconfig.json
+C:\vscode\FlipCalculator_Ford\FlipCalc_Ford\bin\Debug\net9.0\FlipCalc_Ford.dll
+C:\vscode\FlipCalculator_Ford\FlipCalc_Ford\bin\Debug\net9.0\FlipCalc_Ford.pdb
+C:\vscode\FlipCalculator_Ford\FlipCalc_Ford\obj\Debug\net9.0\FlipCalc_Ford.dll
+C:\vscode\FlipCalculator_Ford\FlipCalc_Ford\obj\Debug\net9.0\refint\FlipCalc_Ford.dll
+C:\vscode\FlipCalculator_Ford\FlipCalc_Ford\obj\Debug\net9.0\FlipCalc_Ford.pdb
+C:\vscode\FlipCalculator_Ford\FlipCalc_Ford\obj\Debug\net9.0\FlipCalc_Ford.genruntimeconfig.cache
+C:\vscode\FlipCalculator_Ford\FlipCalc_Ford\obj\Debug\net9.0\ref\FlipCalc_Ford.dll
+C:\vscode\FlipCalculator_Ford\FlipCalc_Ford\bin\Debug\net9.0\data\npc_prices.json
+C:\vscode\FlipCalculator_Ford\FlipCalc_Ford\bin\Debug\net9.0\data\recipes.json
