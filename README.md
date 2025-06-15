@@ -1,3 +1,7 @@
+Link for walkthrough:
+https://youtu.be/JKVRpJS3CvU
+
+
 FlipCalculator_Ford
 Description:
 A C# console program called FlipCalculator_Ford determines the earnings from forging items in Hypixel Skyblock. By incorporating real-time Bazaar API data, recipe cost breakdowns, Kuudra Key crafting logic, and NPC flipping strategies, it duplicates and enhances an earlier Google Sheets tool. The project demonstrates practical knowledge of command-driven user interfaces, API integration, and data handling.
